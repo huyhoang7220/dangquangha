@@ -1,4 +1,4 @@
-<h1> Hey there! I'm Quang Ha. <img src="https://github.com/quangha2611/quangha2611/blob/main/Hi.gif" width="25"></h1>
+<h1> Hey there! I'm Quang Ha. <img src="https://github.com/quangha2611/quangha2611/blob/master/Hi.gif" width="25"></h1>
 
 <h2> 👨🏻‍💻 About Me </h2>
 
