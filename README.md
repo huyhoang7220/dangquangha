@@ -38,9 +38,9 @@
 ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat-square&logo=gitlab)
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=quangha2611&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=prussian" alt="Dang Quang Ha Github Stats" height="180">
+<img src="https://github-readme-stats.vercel.app/api?username=dangquangha&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=prussian" alt="Dang Quang Ha Github Stats" height="180">
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangha2611&layout=compact&text_color=bcdefe&bg_color=172f45" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangquangha&layout=compact&text_color=bcdefe&bg_color=172f45" height="180" />
  
  </p>
 
@@ -53,4 +53,4 @@
   &nbsp; <a href="tel:0794139561" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/phone.png"  width="50" /></a>
 </p>
 
-⭐️ From [Quang Ha](https://github.com/quangha2611)
+⭐️ From [Quang Ha](https://github.com/dangquangha)
