@@ -2,7 +2,7 @@
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-- 🔭 &nbsp;  I'm a software developer at VNP Group
+- 🔭 &nbsp; I'm a software developer at VNP Group
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I'm currently studying Software Engineering at Hanoi University of Industry (2018 - 2022).
 - 💼 &nbsp; Full stack Web developer.
@@ -11,37 +11,86 @@
 
 <h2>🛠 Tech Stack</h2>
 
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat-square&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
-![JAVA](https://img.shields.io/badge/-JAVA-333333?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat-square&logo=c)
-![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat-square&logo=SASS)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3)
+<table width="100%">
+  <tr>
+    <th align="left">Front End</th>
+  </tr>
+  <tr>
+    <td style="padding:15px">
+        <img alt="HTML5" src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
+        <img alt="CSS3" src="https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+        <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>&nbsp;
+        <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+        <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;
+        <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>&nbsp;
+        <img alt="VueJS" src="https://img.shields.io/badge/VueJS-%2320232a.svg?style=for-the-badge&logo=vuejs&logoColor=%2361DAFB"/>&nbsp;
+    </td>
+  </tr>
 
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat-square&logo=laravel)
-![VueJS](https://img.shields.io/badge/-VueJS-333333?style=flat-square&logo=v)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap)
-![Android](https://img.shields.io/badge/-Android-333333?style=flat-square&logo=android)
+  <tr>
+    <th align="left">Back End</th>
+  </tr>
+  <tr>
+    <td style="padding:15px">
+        <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> 
+        <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>&nbsp;
+        <img alt="MySQL" src="https://img.shields.io/badge/mysql-42759d.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
+        <img alt="SQL Server" src="https://img.shields.io/badge/SQLServer-132331.svg?style=for-the-badge&logo=SQLServer&logoColor=white"/>
+        <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>&nbsp;
+    </td>
+  </tr>
 
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat-square&logo=mysql)
-![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat-square&logo=database)
-![Nginx](https://img.shields.io/badge/-Nginx-333333?style=flat-square&logo=nginx)
-![Apache](https://img.shields.io/badge/-Apache-333333?style=flat-square&logo=apache)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
+  <tr>
+    <th align="left">Server</th>
+  </tr>
+  <tr>
+    <td style="padding:15px">
+      <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>&nbsp;
+      <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>&nbsp;
+      <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
+    </td>
+  </tr>
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat-square&logo=ubuntu)
-![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=windows)
+  <tr>
+    <th align="left">Other Programing Languages</th>
+  </tr>
+  <tr>
+    <td style="padding:15px">
+        <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
+        <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
+        <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
+        <img alt="C#" src="https://img.shields.io/badge/csharp-69337d.svg?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp;
+    </td>
+  </tr>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github)
-![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat-square&logo=gitlab)
+  <tr>
+    <th align="left">Version Control</th>
+  <tr>
+  <tr>
+    <td style="padding:15px">  
+        <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+        <img alt="GitHub" src="https://img.shields.io/badge/github-1a1e22.svg?style=for-the-badge&logo=github&logoColor=white"/> 
+        <img alt="GitLab" src="https://img.shields.io/badge/gitlab-524284.svg?style=for-the-badge&logo=gitlab&logoColor=white"/> 
+    </td>
+  </tr>
 
+  <tr>
+    <th align="left">Others</th>
+  <tr>
+  <tr>
+    <td style="padding:15px">
+        <img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu-e45222.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+        <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+        <img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-4b338b.svg?style=for-the-badge&logo=phpstorm&logoColor=white"/> 
+    </td>
+  </tr>
+
+</table>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=dangquangha&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=prussian" alt="Dang Quang Ha Github Stats" height="180">
- 
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangquangha&layout=compact&text_color=bcdefe&bg_color=172f45" height="180" />
- 
+
  </p>
 
 <h2> 🤝🏻 Contact with Me </h2>
