@@ -23,7 +23,7 @@
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
         <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;
         <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>&nbsp;
-        <img alt="VueJS" src="https://img.shields.io/badge/VueJS-%2320232a.svg?style=for-the-badge&logo=vuejs&logoColor=%2361DAFB"/>&nbsp;
+        <img alt="VueJS" src="https://img.shields.io/badge/VueJS-%5dbb7c.svg?style=for-the-badge&logo=vuejs&logoColor=%2361DAFB"/>&nbsp;
     </td>
   </tr>
 
