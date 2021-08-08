@@ -19,11 +19,11 @@
     <td style="padding:15px">
         <img alt="HTML5" src="https://img.shields.io/badge/html-005571.svg?style=for-the-badge&logo=html5&logoColor=dd4b25"/>&nbsp;
         <img alt="CSS3" src="https://img.shields.io/badge/css-005571.svg?style=for-the-badge&logo=css3&logoColor=4aa9d0"/>&nbsp;
-        <img alt="SASS" src="https://img.shields.io/badge/SASS-005571.svg?style=for-the-badge&logo=SASS&logoColor=white"/>&nbsp;
+        <img alt="SASS" src="https://img.shields.io/badge/SASS-005571.svg?style=for-the-badge&logo=SASS&logoColor=c65e92"/>&nbsp;
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript-005571.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-        <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-005571.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;
+        <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-005571.svg?style=for-the-badge&logo=bootstrap&logoColor=825ff3"/>&nbsp;
         <img alt="jQuery" src="https://img.shields.io/badge/jquery-005571.svg?style=for-the-badge&logo=jquery&logoColor=white"/>&nbsp;
-        <img alt="VueJS" src="https://img.shields.io/badge/VueJS-005571.svg?style=for-the-badge&logo=vuejs&logoColor=%2361DAFB"/>&nbsp;
+        <img alt="VueJS" src="https://img.shields.io/badge/VueJS-005571.svg?style=for-the-badge&logo=vuejs&logoColor=3e815b"/>&nbsp;
     </td>
   </tr>
 
@@ -32,8 +32,8 @@
   </tr>
   <tr>
     <td style="padding:15px">
-        <img alt="PHP" src="https://img.shields.io/badge/php-005571.svg?style=for-the-badge&logo=php&logoColor=white"/> 
-        <img alt="Laravel" src="https://img.shields.io/badge/laravel-005571.svg?style=for-the-badge&logo=laravel&logoColor=white"/>&nbsp;
+        <img alt="PHP" src="https://img.shields.io/badge/php-005571.svg?style=for-the-badge&logo=php&logoColor=7377ad"/> 
+        <img alt="Laravel" src="https://img.shields.io/badge/laravel-005571.svg?style=for-the-badge&logo=laravel&logoColor=e94b23"/>&nbsp;
         <img alt="MySQL" src="https://img.shields.io/badge/mysql-005571.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
         <img alt="SQL Server" src="https://img.shields.io/badge/SQLServer-005571.svg?style=for-the-badge&logo=SQLServer&logoColor=white"/>
         <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/>&nbsp;
