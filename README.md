@@ -36,6 +36,7 @@
         <img alt="Laravel" src="https://img.shields.io/badge/laravel-333333.svg?style=for-the-badge&logo=laravel&logoColor=e94b23"/>&nbsp;
         <img alt="MySQL" src="https://img.shields.io/badge/mysql-333333.svg?style=for-the-badge&logo=mysql&logoColor=white"/> 
         <img alt="SQL Server" src="https://img.shields.io/badge/SQLServer-333333.svg?style=for-the-badge&logo=SQLServer&logoColor=white"/>
+        <img alt="Redis" src="https://img.shields.io/badge/redis-333333.svg?style=for-the-badge&logo=redis&logoColor=d5442c"/>&nbsp;
         <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-333333?style=for-the-badge&logo=elasticsearch"/>&nbsp;
     </td>
   </tr>
@@ -46,7 +47,6 @@
   <tr>
     <td style="padding:15px">
       <img alt="Nginx" src="https://img.shields.io/badge/nginx-333333.svg?style=for-the-badge&logo=nginx&logoColor=499338"/>&nbsp;
-      <img alt="Redis" src="https://img.shields.io/badge/redis-333333.svg?style=for-the-badge&logo=redis&logoColor=d5442c"/>&nbsp;
       <img alt="Docker" src="https://img.shields.io/badge/docker-333333.svg?style=for-the-badge&logo=docker&logoColor=3d8cd2"/>&nbsp;
     </td>
   </tr>
