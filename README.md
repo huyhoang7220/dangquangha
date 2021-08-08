@@ -59,7 +59,7 @@
         <img alt="C" src="https://img.shields.io/badge/c-333333.svg?style=for-the-badge&logo=c&logoColor=27338f"/>&nbsp;
         <img alt="C++" src="https://img.shields.io/badge/c++-333333.svg?style=for-the-badge&logo=c%2B%2B&logoColor=195495"/>&nbsp;
         <img alt="Java" src="https://img.shields.io/badge/java-333333.svg?style=for-the-badge&logo=java&logoColor=e06d1e"/>&nbsp;
-        <img alt="C#" src="https://img.shields.io/badge/csharp-333333.svg?style=for-the-badge&logo=csharp&logoColor=783d94"/>&nbsp;
+        <img alt="C#" src="https://img.shields.io/badge/c%23-333333.svg?style=for-the-badge&logo=csharp&logoColor=783d94"/>&nbsp;
     </td>
   </tr>
 
