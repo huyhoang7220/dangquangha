@@ -17,8 +17,8 @@
   </tr>
   <tr>
     <td style="padding:15px">
-        <img alt="HTML5" src="https://img.shields.io/badge/html-333333.svg?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
-        <img alt="CSS3" src="https://img.shields.io/badge/css-005571.svg?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
+        <img alt="HTML5" src="https://img.shields.io/badge/html-005571.svg?style=for-the-badge&logo=html5&logoColor=dd4b25"/>&nbsp;
+        <img alt="CSS3" src="https://img.shields.io/badge/css-005571.svg?style=for-the-badge&logo=css3&logoColor=4aa9d0"/>&nbsp;
         <img alt="SASS" src="https://img.shields.io/badge/SASS-005571.svg?style=for-the-badge&logo=SASS&logoColor=white"/>&nbsp;
         <img alt="JavaScript" src="https://img.shields.io/badge/javascript-005571.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
         <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-005571.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>&nbsp;
