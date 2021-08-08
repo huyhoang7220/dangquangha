@@ -81,7 +81,7 @@
     <td style="padding:15px">
         <img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu-444444.svg?style=for-the-badge&logo=ubuntu&logoColor=d74720"/>
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-444444.svg?style=for-the-badge&logo=visual-studio-code&logoColor=46a9ed"/>
-        <img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-444444.svg?style=for-the-badge&logo=phpstorm&logoColor=a060eb"/> 
+        <img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-444444.svg?style=for-the-badge&logo=phpstorm&logoColor=000000"/> 
     </td>
   </tr>
 
@@ -89,7 +89,7 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=dangquangha&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=prussian" alt="Dang Quang Ha Github Stats" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangquangha&layout=compact&text_color=bcdefe&bg_color=be51a5" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangquangha&layout=compact&text_color=bcdefe&bg_color=172f45" height="180" />
 
  </p>
 
