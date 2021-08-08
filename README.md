@@ -68,7 +68,7 @@
   <tr>
   <tr>
     <td style="padding:15px">  
-        <img alt="Git" src="https://img.shields.io/badge/git-%005571.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+        <img alt="Git" src="https://img.shields.io/badge/git-005571.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
         <img alt="GitHub" src="https://img.shields.io/badge/github-005571.svg?style=for-the-badge&logo=github&logoColor=white"/> 
         <img alt="GitLab" src="https://img.shields.io/badge/gitlab-005571.svg?style=for-the-badge&logo=gitlab&logoColor=white"/> 
     </td>
