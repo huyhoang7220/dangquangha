@@ -57,7 +57,7 @@
   <tr>
     <td style="padding:15px">
         <img alt="C" src="https://img.shields.io/badge/c-444444.svg?style=for-the-badge&logo=c&logoColor=27338f"/>&nbsp;
-        <img alt="C++" src="https://img.shields.io/badge/c++-444444.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>&nbsp;
+        <img alt="C++" src="https://img.shields.io/badge/c++-444444.svg?style=for-the-badge&logo=c%2B%2B&logoColor=195495"/>&nbsp;
         <img alt="Java" src="https://img.shields.io/badge/java-444444.svg?style=for-the-badge&logo=java&logoColor=e06d1e"/>&nbsp;
         <img alt="C#" src="https://img.shields.io/badge/csharp-444444.svg?style=for-the-badge&logo=csharp&logoColor=783d94"/>&nbsp;
     </td>
@@ -68,9 +68,9 @@
   <tr>
   <tr>
     <td style="padding:15px">  
-        <img alt="Git" src="https://img.shields.io/badge/git-005571.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-        <img alt="GitHub" src="https://img.shields.io/badge/github-005571.svg?style=for-the-badge&logo=github&logoColor=white"/> 
-        <img alt="GitLab" src="https://img.shields.io/badge/gitlab-005571.svg?style=for-the-badge&logo=gitlab&logoColor=white"/> 
+        <img alt="Git" src="https://img.shields.io/badge/git-444444.svg?style=for-the-badge&logo=git&logoColor=e94c28"/>&nbsp;
+        <img alt="GitHub" src="https://img.shields.io/badge/github-444444.svg?style=for-the-badge&logo=github&logoColor=000000"/> 
+        <img alt="GitLab" src="https://img.shields.io/badge/gitlab-444444.svg?style=for-the-badge&logo=gitlab&logoColor=dc4628"/> 
     </td>
   </tr>
 
@@ -79,8 +79,8 @@
   <tr>
   <tr>
     <td style="padding:15px">
-        <img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu-005571.svg?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-        <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-005571.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+        <img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu-005571.svg?style=for-the-badge&logo=ubuntu&logoColor=d74720"/>
+        <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-005571.svg?style=for-the-badge&logo=visual-studio-code&logoColor=46a9ed"/>
         <img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-005571.svg?style=for-the-badge&logo=phpstorm&logoColor=white"/> 
     </td>
   </tr>
@@ -89,7 +89,7 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=dangquangha&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=prussian" alt="Dang Quang Ha Github Stats" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangquangha&layout=compact&text_color=bcdefe&bg_color=172f45" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangquangha&layout=compact&text_color=bcdefe&bg_color=be51a5" height="180" />
 
  </p>
 
