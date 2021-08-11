@@ -79,6 +79,7 @@
   <tr>
   <tr>
     <td style="padding:15px">
+        <img alt="Webpack" src="https://img.shields.io/badge/webpack-333333.svg?style=for-the-badge&logo=webpack&logoColor=ffffff"/>
         <img alt="Ubuntu" src="https://img.shields.io/badge/ubuntu-333333.svg?style=for-the-badge&logo=ubuntu&logoColor=d74720"/>
         <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-333333.svg?style=for-the-badge&logo=visual-studio-code&logoColor=46a9ed"/>
         <img alt="PhpStorm" src="https://img.shields.io/badge/phpstorm-333333.svg?style=for-the-badge&logo=phpstorm&logoColor=000000"/> 
