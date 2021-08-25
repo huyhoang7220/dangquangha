@@ -4,5 +4,4 @@
   &nbsp; <a href="https://join.skype.com/invite/vW56wePmGptx" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/skype.png" width="50" /></a>  
 &nbsp; <a href="https://www.facebook.com/dangquangha.2611/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
 &nbsp; <a href="mailto:quangha2611@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-  &nbsp; <a href="tel:0794139561" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/phone.png"  width="50" /></a>
 </p>
