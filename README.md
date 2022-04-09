@@ -2,7 +2,7 @@
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-- 🔭 &nbsp; I'm a software developer at VNP Group
+- 🔭 &nbsp; I’m currently working Web Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I'm currently studying Software Engineering at Hanoi University of Industry (2018 - 2022).
 - 💼 &nbsp; Full stack Web developer.
